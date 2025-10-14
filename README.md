@@ -30,7 +30,7 @@ The engineering for this critical upgrade was expertly handled by Jerry Hightowe
 
 Here's an inside look at some of the advanced membrane filtration equipment:
 
-![DWTF Interior Membrane Filtration](images/membranes.jpeg)
+![DWTF Interior Membrane Filtration](images/membranes.jpeg)(images/membrane interior.jpeg)
 
 **Membrane filtration** offers several key advantages over conventional methods:
 
