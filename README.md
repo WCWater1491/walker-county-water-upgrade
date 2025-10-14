@@ -7,7 +7,7 @@ Walker County Water & Sewerage Authority (WCSWA) is proud to announce the succes
 ## The New Facility Entrance
 Here's a look at the impressive exterior of the new Walker County Drinking Water Treatment Facility:
 
-![Walker County DWTF Exterior](images/exterior.jpeg)
+![Walker County DWTF Exterior](images/exterior.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ The engineering for this critical upgrade was expertly handled by Jerry Hightowe
 
 Here's an inside look at some of the advanced membrane filtration equipment:
 
-![DWTF Interior Membrane Filtration](images/membranes.jpeg)
+![DWTF Interior Membrane Filtration](images/membranes.jpg)
 
 **Membrane filtration** offers several key advantages over conventional methods:
 
