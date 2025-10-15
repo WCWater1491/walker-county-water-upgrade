@@ -29,7 +29,7 @@ This substantial increase in capacity ensures that Walker County can reliably me
 
 ## Engineering Excellence and Technology
 
-![CTI Engineering Logo](images/CTI Logo.png)
+![CTI Engineering Logo](images/CTI_Logo.png)
 
 The engineering for this critical upgrade was expertly handled by **CTI Engineering**. Their design incorporated cutting-edge water treatment technology, transitioning from the older DE system to highly efficient membrane filtration.
 
@@ -41,7 +41,7 @@ The heart of our new plant is the advanced filtration system utilizing **Pall Mi
 
 1.  **Absolute Barrier:** The Pall Microza modules act as an **absolute physical barrier**, ensuring $100\%$ removal of cryptosporidium, giardia, and other microbial contaminants. This provides unmatched protection against waterborne disease and ensures compliance with the most stringent EPA regulations.
 2.  **Interior View:** The modules contain thousands of hollow fibers, as shown here, which perform the precise filtration process.
-    ![Interior Fibers of Pall Modules](images/m interior 01.jpeg)
+    ![Interior Fibers of Pall Modules](images/m_interior_01.jpg)
 3.  **Increased Efficiency:** The system is designed for optimal performance, minimizing waste and energy use compared to older technologies. Furthermore, the membranes allow for **higher flux rates** (water processed per unit area), contributing directly to the plant's expanded **12 MGD capacity**.
 4.  **Reliability and Automation:** The robust membrane modules and automated backwash and cleaning cycles ensure **consistent, high-quality water production** with less susceptibility to fluctuations in raw water quality and requiring less chemical pretreatment.
 5.  **Superior Water Quality:** Membranes result in significantly lower turbidity (water cloudiness) than traditional filtration, consistently producing drinking water that is **crystal clear** and exceptionally safe.
