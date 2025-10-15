@@ -4,10 +4,11 @@ Walker County Water & Sewerage Authority (WCSWA) is proud to announce the succes
 
 ---
 
-## The New Facility Entrance
-Here's a look at the impressive exterior of the new Walker County Drinking Water Treatment Facility:
+## New Facility Exterior Look
 
-![Walker County DWTF Exterior](images/exterior.JPG)
+The new DWTF was designed to be both functional and aesthetically pleasing. We aimed for a lodge-style blend with a historic look, featuring striking stone work and Nichiha Ventagewood siding panels to complement **Chickamauga’s rich historical heritage**.
+
+![DWTF Exterior Look](images/exterior.JPG)
 
 ---
 
@@ -18,40 +19,43 @@ This ambitious project was managed and overseen by Randall Haney, Superintendent
 The new facility represents a fundamental transformation from the previous infrastructure:
 
 * **Previous Facility:** A **4.5 Million Gallons per Day (MGD) Diatomaceous Earth (DE)** treatment plant.
-* **New Facility:** A modern **12 MGD Membrane Filtration** plant.
+* **New Facility:** A modern **12 MGD Membrane Filtration** plant, with room for future expansion to a **15 MGD** capacity. (The membrane section is a new addition to the original building).
 
-This substantial increase in capacity ensures that Walker County can reliably meet the current and future water demands of its residents and businesses. Furthermore, the facility design includes room for future expansion, allowing for an ultimate capacity of **15 MGD** as the community continues to grow.
+This substantial increase in capacity ensures that Walker County can reliably meet the current and future water demands of its residents and businesses.
+
+![Inside the Membrane Building](images/membranes.JPG)
 
 ---
 
 ## Engineering Excellence and Technology
 
-The engineering for this critical upgrade was expertly handled by Jerry Hightower with **CTI Engineering**. Their design incorporated cutting-edge water treatment technology, transitioning from the older DE system to highly efficient **membrane filtration**.
+![CTI Engineering Logo](images/CTI Logo.png)
 
-Here's an inside look at some of the advanced membrane filtration equipment:
+The engineering for this critical upgrade was expertly handled by **CTI Engineering**. Their design incorporated cutting-edge water treatment technology, transitioning from the older DE system to highly efficient membrane filtration.
 
-![DWTF Interior Membrane Filtration](images/membranes.JPG)
+<br>
 
 **Membrane filtration** offers several key advantages over conventional methods:
 
-The heart of our new plant is the advanced filtration system utilizing Pall Micro Membranes. Pall is a global leader in filtration technology, and these membranes provide significant operational and water quality benefits:
+The heart of our new plant is the advanced filtration system utilizing **Pall Microza modules**. Pall is a global leader in filtration technology, and these modules provide significant operational and water quality benefits:
 
-Absolute Barrier: The Pall micro-membranes act as an absolute physical barrier, ensuring 100% removal of cryptosporidium, giardia, and other microbial contaminants. This provides unmatched protection against waterborne disease and ensures compliance with the most stringent EPA regulations.
+1.  **Absolute Barrier:** The Pall Microza modules act as an **absolute physical barrier**, ensuring $100\%$ removal of cryptosporidium, giardia, and other microbial contaminants. This provides unmatched protection against waterborne disease and ensures compliance with the most stringent EPA regulations.
+2.  **Interior View:** The modules contain thousands of hollow fibers, as shown here, which perform the precise filtration process.
+    ![Interior Fibers of Pall Modules](images/m interior 01.jpeg)
+3.  **Increased Efficiency:** The system is designed for optimal performance, minimizing waste and energy use compared to older technologies. Furthermore, the membranes allow for **higher flux rates** (water processed per unit area), contributing directly to the plant's expanded **12 MGD capacity**.
+4.  **Reliability and Automation:** The robust membrane modules and automated backwash and cleaning cycles ensure **consistent, high-quality water production** with less susceptibility to fluctuations in raw water quality and requiring less chemical pretreatment.
+5.  **Superior Water Quality:** Membranes result in significantly lower turbidity (water cloudiness) than traditional filtration, consistently producing drinking water that is **crystal clear** and exceptionally safe.
 
-Increased Efficiency: The system is designed for optimal performance, minimizing waste and energy use compared to older technologies. Furthermore, the membranes allow for higher flux rates (water processed per unit area), contributing directly to the plant's expanded 12 MGD capacity.
-
-Reliability and Automation: The robust membrane modules and automated backwash and cleaning cycles ensure consistent, high-quality water production with less susceptibility to fluctuations in raw water quality and requiring less chemical pretreatment.
-
-Superior Water Quality: Membranes result in significantly lower turbidity (water cloudiness) than traditional filtration, consistently producing drinking water that is crystal clear and exceptionally safe.
 ---
 
 ## Serving the Community
 
-Walker County Water & Sewerage Authority are pleased to confirm that the new 12 MGD Membrane Plant is **now fully online and operational**, successfully integrating into the WCSWA water distribution system.
+![WCSWA Logo](images/Logo.png)
 
-This upgrade is a testament to Walker County Water & Sewerage Authority’s commitment to providing safe, reliable, and high-quality drinking water. We look forward to serving the community with this state-of-the-art facility for decades to come.
+We are pleased to confirm that the new 12 MGD Membrane Plant is **now fully online and operational**, successfully integrating into the WCSWA water distribution system.
+
+This upgrade is a testament to Walker County’s commitment to providing safe, reliable, and high-quality drinking water. We look forward to serving the community with this state-of-the-art facility for decades to come.
 
 ---
 
-*For further information regarding the new facility or the Walker County Water & Sewerage Authority, please contact WCSWA during business hours, Monday - Friday 8:30 AM - 4:30 PM (706) 820-.1455*
-Walker County Water &amp; Sewerage Authority's major upgrade from a 4.5 MGD Diatomaceous Earth plant to a new 12 MGD Membrane Filtration Facility.
+For further information regarding the new facility, contact Randall Haney email: **randall@walkercountywsa.com**
